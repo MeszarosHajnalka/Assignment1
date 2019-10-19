@@ -1,0 +1,17 @@
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\BookMSTest.deps.json
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\BookMSTest.runtimeconfig.json
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\BookMSTest.runtimeconfig.dev.json
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\BookMSTest.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\BookMSTest.pdb
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\bin\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.csprojAssemblyReference.cache
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.csproj.CoreCompileInputs.cache
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.AssemblyInfoInputs.cache
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.AssemblyInfo.cs
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.csproj.CopyComplete
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.dll
+C:\Users\mflor\source\repos\MandatoryAssignment\BookMSTest\obj\Debug\netcoreapp2.1\BookMSTest.pdb
